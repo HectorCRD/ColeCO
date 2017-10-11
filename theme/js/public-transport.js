@@ -145,7 +145,7 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
 
   // Define colors for transport categories
   var transportCategories = {
-    'lines-troncales': '#FFFF00',
+    'lines-troncales': '#FFFF00', // Amarillo
     'lines-colectoras': '#45B549',
     'lines-circulares': '#A8611A',
     }
