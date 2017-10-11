@@ -1,4 +1,3 @@
-# ColePos
-Transporte Público Urbano de la Ciudad de Posadas
+Página principal de ColePos
 
-Basado en MapaNica y BogoMAp
+
