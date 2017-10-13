@@ -1,5 +1,22 @@
-
 $(document).ready(function (){
+
+  $('#searchlink').on('click', function(e){
+    if($('#searchlink').hasClass('open')) {
+      $('#searchform').removeClass('open');
+      $('#searchlink').removeClass('open');
+      $('#searchlink .fa-arial').addClass('fa-search');
+      $('#searchlink .fa-arial').removeClass('fa-arial');
+      modal.close();
+      $('#report').show();
+
+    }
+    else {
+      $('#searchform').addClass('open');
+      $('#searchlink').addClass('open');
+      $('#searchlink .fa-search').addClass('fa-arial');
+      $('#searchlink .fa-search').removeClass('fa-search');
+    }
+  });
 
   var search = function(){
     var inp = document.getElementById("search-string") + ", Posadas, Misiones";

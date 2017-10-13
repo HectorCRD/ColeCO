@@ -153,7 +153,7 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
 
     'lines-troncales': '#FFFF00', // Amarillo
     'lines-circulares': '#1E90FF', // Celeste
-    'lines-colectoras': '#556B2F', // Verde
+    'lines-colectoras': '#7CFC00', // Verde
 
  
   }
@@ -206,10 +206,10 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
               layer.bindLabel(feature.properties.name, {noHide: false});
 
               // Create list of bus stops
-              if (feature.properties.attributes.official_status == "IRTRAMMA:bus_stop") {
+              if (feature.properties.attributes.official_status == "bus_stop") {
                 stopClass = "stop-official";
               }
-              else if (feature.properties.attributes.official_status == "IRTRAMMA:bus_station") {
+              else if (feature.properties.attributes.official_status == "bus_station") {
                 stopClass = "stop-station";
               }
               else if (feature.properties.attributes.official_status == "none") {
@@ -228,21 +228,65 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
             else if (feature.geometry.type == 'LineString' || feature.geometry.type == 'MultiLineString') {
 
               showBusInfo();
-//              $(".info-wrapper .ref").text("Ruta " + feature.properties.attributes.ref);
-//              $(".info-wrapper .from").text(feature.properties.attributes.from);
-//              $(".info-wrapper .to").text(feature.properties.attributes.to);
-//              $(".info-wrapper .operator").text("Operada por:  " + feature.properties.attributes.operator);
-//              $(".stop-overview .variant-one h4").text(feature.properties.attributes.from + " -> " + feature.properties.attributes.to);
-//              $(".stop-overview .variant-two h4").text(feature.properties.attributes.to + " -> " + feature.properties.attributes.from);
 
-              $(".info-wrapper .name").text("Línea " + Feature.properties.name);
-              $(".info-wrapper .from").text("Desde:" + Feature.properties.from);
-              $(".info-wrapper .to").text("Hasta:" + Feature.properties.to);
-              $(".info-wrapper .operator").text("Operada por:  " + Feature.properties.operator);
+
+              // Verificar si el valor de "ref" está definido
+              if (typeof feature.properties !== "undefined" && typeof feature.properties.ref !== "undefined"){
+
+              $(".info-wrapper .ref").text("Línea " + feature.properties.ref);
+
+              // 
+              } else {
+                ref = feature.properties["@relations"][0].reltags.ref;
+                $(".info-wrapper .ref").text("Línea " + ref);
+              }
+
+              // Verificar si el valor de "from" está definido
+              if (typeof feature.properties !== "undefined" && typeof feature.properties.from !== "undefined"){
+
+              $(".info-wrapper .from").text("Desde: " + feature.properties.from);
+
+              // 
+              } else {
+                from = feature.properties["@relations"][0].reltags.from;
+                $(".info-wrapper .from").text("Desde: " + from);
+              }
+    
+             // Verificar si el valor de "to" está definido.
+              if (typeof feature.properties !== "undefined" && typeof feature.properties.to !== "undefined"){
+
+              $(".info-wrapper .to").text("Hasta: " + feature.properties.to);
+
+              // 
+              } else {
+                to = feature.properties["@relations"][0].reltags.to;
+                $(".info-wrapper .to").text("Hasta: " + to);
+              }
+ 
+             // Verificar si el valor de "operator" está definido.
+              if (typeof feature.properties !== "undefined" && typeof feature.properties.operator !== "undefined"){
+
+              $(".info-wrapper .operator").text("Operada por:  " + feature.properties.operator);
+
+              // 
+              } else {
+                operator = feature.properties["@relations"][0].reltags.operator;
+                $(".info-wrapper .operator").text(operator);
+              }
+
+              // BogoMap: Test if the from value is defined.
+              if (typeof feature.properties.attributes !== "undefined" && typeof feature.properties.attributes.from !== "undefined" && typeof feature.properties.attributes.to !== "undefined"){
+
               $(".stop-overview .variant-one h4").text(feature.properties.attributes.from + " -> " + feature.properties.attributes.to);
               $(".stop-overview .variant-two h4").text(feature.properties.attributes.to + " -> " + feature.properties.attributes.from);
 
-
+              // BogoMap
+              } else {
+                to = feature.properties["@relations"][0].reltags.to;
+                from = feature.properties["@relations"][0].reltags.from;
+                $(".stop-overview .variant-one h4").text(from + " -> " + to);
+                $(".stop-overview .variant-two h4").text(to + " -> " + from);
+              }
 
             }
         }});
