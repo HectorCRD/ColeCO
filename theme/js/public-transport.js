@@ -5,22 +5,26 @@ var scrolled=0;
 function load_map(url_params) {
 
   var humanitarian = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
-    attribution: 'Geo datos © <a href="https://openstreetmap.org">OpenStreetMap</a>'
+    attribution: '© Colaboradores de <a href="https://openstreetmap.org">OpenStreetMap</a>'
   });
   var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© Colaboradores de <a href="https://openstreetmap.org">OpenStreetMap</a>'
   });
   var pub_transport = L.tileLayer('https://tile.memomaps.de/tilegen/{z}/{x}/{y}.png', {
-    attribution: 'Geo datos © <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://memomaps.de/">MeMoMaps</a>'
+    attribution: '© Colaboradores de <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://memomaps.de/">MeMoMaps</a>'
   });
   var new_transport = L.tileLayer('https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey=760b39ce3c124042844d03e0f935bae9', {
-    attribution: 'Geo datos © <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://thunderforest.com/">Gravitystorm</a>'
+    attribution: '© Colaboradores de <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://thunderforest.com/">Gravitystorm</a>'
   });
   var mapbox = L.tileLayer('https://{s}.tiles.mapbox.com/v3/jaakkoh.map-4ch3dsvl/{z}/{x}/{y}.png', {
-    attribution: 'Geo datos © <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://mapbox.com/">Mapbox</a>'
+    attribution: '© Colaboradores de <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://mapbox.com/">Mapbox</a>'
   });
   var osmsweden = L.tileLayer('https://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png', {
-    attribution: 'Geo datos © <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://https://openstreetmap.se/">OSM Suecia</a>'
+    attribution: '© Colaboradores de <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://https://openstreetmap.se/">OSM Suecia</a>'
+  });
+
+  var jawgmaps = L.tileLayer('https://{s}.tile.jawg.io/dark/{z}/{x}/{y}.png?api-key=community', {
+    attribution: '© Colaboradores de <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://https://openstreetmap.se/">OSM Dark (jawgmaps)</a>'
   });
 
 
@@ -28,18 +32,19 @@ function load_map(url_params) {
 
   var baseLayers = {
     "Transporte público": pub_transport,
-    "Humanitarian": humanitarian,
+    "Humanitario": humanitarian,
     "OpenStreetMap": osm,
     "Mapbox": mapbox,
-    "OSM Sweden": osmsweden,
+    "OSM Suecia": osmsweden,
+    "OSM Dark": jawgmaps,
   };
 
   // Initialize map
   map = new L.map('map', {
     center: [-27.46,-55.82], 
     zoom: 13,
-    attributionControl: false,
-    layers: baseLayers[url_params.layers] || mapbox
+    attributionControl: true,
+    layers: baseLayers[url_params.layers] || jawgmaps
   });
 
   // Adding hash for position in url
@@ -49,8 +54,8 @@ function load_map(url_params) {
   L.control.attribution({position: 'bottomleft'}).addTo(map);
 
   // Adding layer functionality
-  //var layers = L.control.activeLayers(baseLayers);
-  //layers.setPosition('bottomleft').addTo(map);
+  var layers = L.control.activeLayers(baseLayers);
+  layers.setPosition('bottomleft').addTo(map);
 
 }
 
@@ -145,10 +150,13 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
 
   // Define colors for transport categories
   var transportCategories = {
+
     'lines-troncales': '#FFFF00', // Amarillo
-    'lines-colectoras': '#45B549',
-    'lines-circulares': '#A8611A',
-    }
+    'lines-circulares': '#1E90FF', // Celeste
+    'lines-colectoras': '#556B2F', // Verde
+
+ 
+  }
 
   var myStyle = {
     color: transportCategories[category],
@@ -169,7 +177,7 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
   // Load data from file
   $.ajax({
     type: "GET",
-    url: "data/" + bus_number + "-1.geojson",
+    url: "data/" + bus_number + ".geojson",
     dataType: 'json',
     async: true,
     cache: true,
@@ -220,12 +228,22 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
             else if (feature.geometry.type == 'LineString' || feature.geometry.type == 'MultiLineString') {
 
               showBusInfo();
-              $(".info-wrapper .ref").text("Ruta " + feature.properties.attributes.ref);
-              $(".info-wrapper .from").text(feature.properties.attributes.from);
-              $(".info-wrapper .to").text(feature.properties.attributes.to);
-              $(".info-wrapper .operator").text("Operada por:  " + feature.properties.attributes.operator);
+//              $(".info-wrapper .ref").text("Ruta " + feature.properties.attributes.ref);
+//              $(".info-wrapper .from").text(feature.properties.attributes.from);
+//              $(".info-wrapper .to").text(feature.properties.attributes.to);
+//              $(".info-wrapper .operator").text("Operada por:  " + feature.properties.attributes.operator);
+//              $(".stop-overview .variant-one h4").text(feature.properties.attributes.from + " -> " + feature.properties.attributes.to);
+//              $(".stop-overview .variant-two h4").text(feature.properties.attributes.to + " -> " + feature.properties.attributes.from);
+
+              $(".info-wrapper .name").text("Línea " + Feature.properties.name);
+              $(".info-wrapper .from").text("Desde:" + Feature.properties.from);
+              $(".info-wrapper .to").text("Hasta:" + Feature.properties.to);
+              $(".info-wrapper .operator").text("Operada por:  " + Feature.properties.operator);
               $(".stop-overview .variant-one h4").text(feature.properties.attributes.from + " -> " + feature.properties.attributes.to);
               $(".stop-overview .variant-two h4").text(feature.properties.attributes.to + " -> " + feature.properties.attributes.from);
+
+
+
             }
         }});
         busDetailLayerGroup.addLayer(geojsonLayer);
@@ -238,7 +256,7 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
       // Load data from file
   $.ajax({
     type: "GET",
-    url: "data/" + bus_number + "-2.geojson",
+    url: "data/" + bus_number + ".geojson",
     dataType: 'json',
     async: true,
     cache: true,
