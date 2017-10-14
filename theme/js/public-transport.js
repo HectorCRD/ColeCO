@@ -154,8 +154,6 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
     'lines-troncales': '#FFFF00', // Amarillo
     'lines-circulares': '#1E90FF', // Celeste
     'lines-colectoras': '#7CFC00', // Verde
-
- 
   }
 
   var myStyle = {
@@ -271,16 +269,16 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
               // 
               } else {
                 operator = feature.properties["@relations"][0].reltags.operator;
-                $(".info-wrapper .operator").text(operator);
+                $(".info-wrapper .operator").text("Operada por:  " + operator);
               }
 
-              // BogoMap: Test if the from value is defined.
-              if (typeof feature.properties.attributes !== "undefined" && typeof feature.properties.attributes.from !== "undefined" && typeof feature.properties.attributes.to !== "undefined"){
+              // Verificar si el valor de "from" está definido
+              if (typeof feature.properties !== "undefined" && typeof feature.properties.from !== "undefined" && typeof feature.properties.to !== "undefined"){
 
               $(".stop-overview .variant-one h4").text(feature.properties.attributes.from + " -> " + feature.properties.attributes.to);
               $(".stop-overview .variant-two h4").text(feature.properties.attributes.to + " -> " + feature.properties.attributes.from);
 
-              // BogoMap
+              // 
               } else {
                 to = feature.properties["@relations"][0].reltags.to;
                 from = feature.properties["@relations"][0].reltags.from;
@@ -327,10 +325,10 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
               layer.bindLabel(feature.properties.name, {noHide: false});
 
               // Create list of bus stops
-              if (feature.properties.attributes.official_status == "IRTRAMMA:bus_stop") {
+              if (feature.properties.attributes.official_status == "bus_stop") {
                 stopClass = "stop-official";
               }
-              else if (feature.properties.attributes.official_status == "IRTRAMMA:bus_station") {
+              else if (feature.properties.attributes.official_status == "bus_station") {
                 stopClass = "stop-station";
               }
               else if (feature.properties.attributes.official_status == "none") {
