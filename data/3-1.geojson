@@ -1,0 +1,3742 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T10:20:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/262938236",
+      "properties": {
+        "@id": "way/262938236",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8907094,
+            -27.429772
+          ],
+          [
+            -55.8906199,
+            -27.4298683
+          ],
+          [
+            -55.8892546,
+            -27.431315
+          ],
+          [
+            -55.8888781,
+            -27.4317128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630312",
+      "properties": {
+        "@id": "way/261630312",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980939,
+            -27.4237547
+          ],
+          [
+            -55.8980454,
+            -27.423817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263284241",
+      "properties": {
+        "@id": "way/263284241",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910271,
+            -27.4292598
+          ],
+          [
+            -55.8909746,
+            -27.4293969
+          ],
+          [
+            -55.8909091,
+            -27.4295009
+          ],
+          [
+            -55.8908332,
+            -27.4296126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834475",
+      "properties": {
+        "@id": "way/268834475",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8953119,
+            -27.4262329
+          ],
+          [
+            -55.8951106,
+            -27.4263698
+          ],
+          [
+            -55.8941814,
+            -27.4269635
+          ],
+          [
+            -55.8939735,
+            -27.4270968
+          ],
+          [
+            -55.8935826,
+            -27.427372
+          ],
+          [
+            -55.8931889,
+            -27.427636
+          ],
+          [
+            -55.8930018,
+            -27.4277674
+          ],
+          [
+            -55.8921969,
+            -27.4283327
+          ],
+          [
+            -55.8914701,
+            -27.4288199
+          ],
+          [
+            -55.8910271,
+            -27.4292598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341620",
+      "properties": {
+        "@id": "way/389341620",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8908332,
+            -27.4296126
+          ],
+          [
+            -55.8907094,
+            -27.429772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549264",
+      "properties": {
+        "@id": "way/264549264",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989094,
+            -27.422411
+          ],
+          [
+            -55.8984768,
+            -27.4231643
+          ],
+          [
+            -55.8981314,
+            -27.4236969
+          ],
+          [
+            -55.8980939,
+            -27.4237547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509182",
+      "properties": {
+        "@id": "way/384509182",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005321,
+            -27.4166073
+          ],
+          [
+            -55.9004011,
+            -27.4172459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422803926",
+      "properties": {
+        "@id": "way/422803926",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980454,
+            -27.423817
+          ],
+          [
+            -55.8979627,
+            -27.4239233
+          ],
+          [
+            -55.8977526,
+            -27.4241719
+          ],
+          [
+            -55.897267,
+            -27.4247002
+          ],
+          [
+            -55.8970813,
+            -27.4248836
+          ],
+          [
+            -55.8969069,
+            -27.4250558
+          ],
+          [
+            -55.8964834,
+            -27.4253801
+          ],
+          [
+            -55.8963298,
+            -27.4254799
+          ],
+          [
+            -55.8956019,
+            -27.4260224
+          ],
+          [
+            -55.895368,
+            -27.4261967
+          ],
+          [
+            -55.8953119,
+            -27.4262329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927934",
+      "properties": {
+        "@id": "way/127927934",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002357,
+            -27.4182096
+          ],
+          [
+            -55.8995882,
+            -27.4207689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927958",
+      "properties": {
+        "@id": "way/127927958",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004011,
+            -27.4172459
+          ],
+          [
+            -55.9003807,
+            -27.4175731
+          ],
+          [
+            -55.9002357,
+            -27.4182096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927965",
+      "properties": {
+        "@id": "way/127927965",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8995882,
+            -27.4207689
+          ],
+          [
+            -55.8995319,
+            -27.4209868
+          ],
+          [
+            -55.8994347,
+            -27.421113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630313",
+      "properties": {
+        "@id": "way/261630313",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994347,
+            -27.421113
+          ],
+          [
+            -55.8992447,
+            -27.4216479
+          ],
+          [
+            -55.899005,
+            -27.4222179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549263",
+      "properties": {
+        "@id": "way/264549263",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899005,
+            -27.4222179
+          ],
+          [
+            -55.8989635,
+            -27.4223176
+          ],
+          [
+            -55.8989094,
+            -27.422411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40619471",
+      "properties": {
+        "@id": "way/40619471",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9025709,
+            -27.403366
+          ],
+          [
+            -55.9026042,
+            -27.4034392
+          ],
+          [
+            -55.902643,
+            -27.403599
+          ],
+          [
+            -55.9027991,
+            -27.4039252
+          ],
+          [
+            -55.902954,
+            -27.4041481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/357562996",
+      "properties": {
+        "@id": "way/357562996",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024144,
+            -27.4084579
+          ],
+          [
+            -55.9021654,
+            -27.4094854
+          ],
+          [
+            -55.901893,
+            -27.4106096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43970616",
+      "properties": {
+        "@id": "way/43970616",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9030787,
+            -27.4047406
+          ],
+          [
+            -55.9030684,
+            -27.4050166
+          ],
+          [
+            -55.9030199,
+            -27.4054135
+          ],
+          [
+            -55.9030761,
+            -27.4060084
+          ],
+          [
+            -55.90307,
+            -27.4063518
+          ],
+          [
+            -55.9030465,
+            -27.4065071
+          ],
+          [
+            -55.9029347,
+            -27.4070347
+          ],
+          [
+            -55.9029177,
+            -27.4071148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927977",
+      "properties": {
+        "@id": "way/127927977",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9027731,
+            -27.4070967
+          ],
+          [
+            -55.9027079,
+            -27.407342
+          ],
+          [
+            -55.9025507,
+            -27.4078956
+          ],
+          [
+            -55.9024144,
+            -27.4084579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423666",
+      "properties": {
+        "@id": "way/263423666",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9029177,
+            -27.4071148
+          ],
+          [
+            -55.9027731,
+            -27.4070967
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834484",
+      "properties": {
+        "@id": "way/268834484",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902954,
+            -27.4041481
+          ],
+          [
+            -55.9030511,
+            -27.4042387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320263024",
+      "properties": {
+        "@id": "way/320263024",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9031041,
+            -27.4047104
+          ],
+          [
+            -55.9030787,
+            -27.4047406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320263026",
+      "properties": {
+        "@id": "way/320263026",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9030511,
+            -27.4042387
+          ],
+          [
+            -55.9031009,
+            -27.4043345
+          ],
+          [
+            -55.9031263,
+            -27.4044688
+          ],
+          [
+            -55.9031336,
+            -27.4046082
+          ],
+          [
+            -55.9031041,
+            -27.4047104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/357564368",
+      "properties": {
+        "@id": "way/357564368",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9011704,
+            -27.4137012
+          ],
+          [
+            -55.9011477,
+            -27.413812
+          ],
+          [
+            -55.9011252,
+            -27.4139095
+          ],
+          [
+            -55.9010609,
+            -27.4142059
+          ],
+          [
+            -55.9010558,
+            -27.4142292
+          ],
+          [
+            -55.9005321,
+            -27.4166073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/357564369",
+      "properties": {
+        "@id": "way/357564369",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.901893,
+            -27.4106096
+          ],
+          [
+            -55.9018563,
+            -27.4107611
+          ],
+          [
+            -55.9018181,
+            -27.4109178
+          ],
+          [
+            -55.9014812,
+            -27.4123028
+          ],
+          [
+            -55.901413,
+            -27.4125832
+          ],
+          [
+            -55.9011704,
+            -27.4137012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799997",
+      "properties": {
+        "@id": "way/293799997",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022528,
+            -27.40109
+          ],
+          [
+            -55.9022599,
+            -27.401141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800000",
+      "properties": {
+        "@id": "way/293800000",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022674,
+            -27.4011946
+          ],
+          [
+            -55.9023961,
+            -27.4021154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800001",
+      "properties": {
+        "@id": "way/293800001",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024763,
+            -27.402689
+          ],
+          [
+            -55.9025709,
+            -27.403366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314214151",
+      "properties": {
+        "@id": "way/314214151",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023961,
+            -27.4021154
+          ],
+          [
+            -55.9024119,
+            -27.4022287
+          ],
+          [
+            -55.9024763,
+            -27.402689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381023",
+      "properties": {
+        "@id": "way/340381023",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022599,
+            -27.401141
+          ],
+          [
+            -55.9022674,
+            -27.4011946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800002",
+      "properties": {
+        "@id": "way/293800002",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9021347,
+            -27.4002453
+          ],
+          [
+            -55.902225,
+            -27.4008908
+          ],
+          [
+            -55.9022528,
+            -27.40109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799970",
+      "properties": {
+        "@id": "way/293799970",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020373,
+            -27.3995484
+          ],
+          [
+            -55.9021347,
+            -27.4002453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799977",
+      "properties": {
+        "@id": "way/293799977",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017878,
+            -27.3977627
+          ],
+          [
+            -55.9017923,
+            -27.397795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799983",
+      "properties": {
+        "@id": "way/293799983",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9019095,
+            -27.3986335
+          ],
+          [
+            -55.902014,
+            -27.3993811
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799986",
+      "properties": {
+        "@id": "way/293799986",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902014,
+            -27.3993811
+          ],
+          [
+            -55.9020373,
+            -27.3995484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799996",
+      "properties": {
+        "@id": "way/293799996",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017982,
+            -27.397837
+          ],
+          [
+            -55.9018204,
+            -27.3979706
+          ],
+          [
+            -55.9019095,
+            -27.3986335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298202494",
+      "properties": {
+        "@id": "way/298202494",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017676,
+            -27.3976183
+          ],
+          [
+            -55.9017731,
+            -27.3976576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299921856",
+      "properties": {
+        "@id": "way/299921856",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017784,
+            -27.3976959
+          ],
+          [
+            -55.9017878,
+            -27.3977627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381022",
+      "properties": {
+        "@id": "way/340381022",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017731,
+            -27.3976576
+          ],
+          [
+            -55.9017784,
+            -27.3976959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381024",
+      "properties": {
+        "@id": "way/340381024",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017923,
+            -27.397795
+          ],
+          [
+            -55.9017982,
+            -27.397837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799989",
+      "properties": {
+        "@id": "way/293799989",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900712,
+            -27.390065
+          ],
+          [
+            -55.9008454,
+            -27.3910192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799994",
+      "properties": {
+        "@id": "way/293799994",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9015695,
+            -27.396201
+          ],
+          [
+            -55.9017459,
+            -27.3974633
+          ],
+          [
+            -55.9017676,
+            -27.3976183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799969",
+      "properties": {
+        "@id": "way/293799969",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9014321,
+            -27.395218
+          ],
+          [
+            -55.9014445,
+            -27.3953064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799971",
+      "properties": {
+        "@id": "way/293799971",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9014445,
+            -27.3953064
+          ],
+          [
+            -55.9015531,
+            -27.3960836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799978",
+      "properties": {
+        "@id": "way/293799978",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9009116,
+            -27.3914928
+          ],
+          [
+            -55.9009285,
+            -27.391614
+          ],
+          [
+            -55.9010422,
+            -27.3924278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799981",
+      "properties": {
+        "@id": "way/293799981",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9011702,
+            -27.3933438
+          ],
+          [
+            -55.9012825,
+            -27.394147
+          ],
+          [
+            -55.9013068,
+            -27.3943209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799982",
+      "properties": {
+        "@id": "way/293799982",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9008454,
+            -27.3910192
+          ],
+          [
+            -55.9008777,
+            -27.3912509
+          ],
+          [
+            -55.9009116,
+            -27.3914928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799987",
+      "properties": {
+        "@id": "way/293799987",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013068,
+            -27.3943209
+          ],
+          [
+            -55.9013321,
+            -27.3945024
+          ],
+          [
+            -55.9014321,
+            -27.395218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799992",
+      "properties": {
+        "@id": "way/293799992",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010422,
+            -27.3924278
+          ],
+          [
+            -55.9011702,
+            -27.3933438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800004",
+      "properties": {
+        "@id": "way/293800004",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9015531,
+            -27.3960836
+          ],
+          [
+            -55.9015695,
+            -27.396201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799968",
+      "properties": {
+        "@id": "way/293799968",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9000408,
+            -27.3852614
+          ],
+          [
+            -55.9001411,
+            -27.3859797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799973",
+      "properties": {
+        "@id": "way/293799973",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900628,
+            -27.3894636
+          ],
+          [
+            -55.900712,
+            -27.390065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799975",
+      "properties": {
+        "@id": "way/293799975",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002421,
+            -27.3867017
+          ],
+          [
+            -55.9002577,
+            -27.3868138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799976",
+      "properties": {
+        "@id": "way/293799976",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8999096,
+            -27.3843227
+          ],
+          [
+            -55.8999589,
+            -27.3847116
+          ],
+          [
+            -55.9000247,
+            -27.3851464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799980",
+      "properties": {
+        "@id": "way/293799980",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002577,
+            -27.3868138
+          ],
+          [
+            -55.900349,
+            -27.3874672
+          ],
+          [
+            -55.9003745,
+            -27.3876499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799984",
+      "properties": {
+        "@id": "way/293799984",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005,
+            -27.388548
+          ],
+          [
+            -55.900628,
+            -27.3894636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799990",
+      "properties": {
+        "@id": "way/293799990",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9003745,
+            -27.3876499
+          ],
+          [
+            -55.9004015,
+            -27.3878428
+          ],
+          [
+            -55.9005,
+            -27.388548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799991",
+      "properties": {
+        "@id": "way/293799991",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001411,
+            -27.3859797
+          ],
+          [
+            -55.9002421,
+            -27.3867017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799999",
+      "properties": {
+        "@id": "way/293799999",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9000247,
+            -27.3851464
+          ],
+          [
+            -55.9000408,
+            -27.3852614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799974",
+      "properties": {
+        "@id": "way/293799974",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8997815,
+            -27.3834058
+          ],
+          [
+            -55.8998669,
+            -27.3840173
+          ],
+          [
+            -55.8999096,
+            -27.3843227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799993",
+      "properties": {
+        "@id": "way/293799993",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989741,
+            -27.3776343
+          ],
+          [
+            -55.8991141,
+            -27.3786336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256127030",
+      "properties": {
+        "@id": "way/256127030",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899436,
+            -27.3809288
+          ],
+          [
+            -55.8994635,
+            -27.3811304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256127031",
+      "properties": {
+        "@id": "way/256127031",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994635,
+            -27.3811304
+          ],
+          [
+            -55.8996661,
+            -27.3825806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799972",
+      "properties": {
+        "@id": "way/293799972",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8996661,
+            -27.3825806
+          ],
+          [
+            -55.8996781,
+            -27.3826664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799979",
+      "properties": {
+        "@id": "way/293799979",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8996781,
+            -27.3826664
+          ],
+          [
+            -55.8997815,
+            -27.3834058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799985",
+      "properties": {
+        "@id": "way/293799985",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8993414,
+            -27.3802547
+          ],
+          [
+            -55.899392,
+            -27.3806157
+          ],
+          [
+            -55.899436,
+            -27.3809288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799995",
+      "properties": {
+        "@id": "way/293799995",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8991141,
+            -27.3786336
+          ],
+          [
+            -55.899242,
+            -27.3795452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800003",
+      "properties": {
+        "@id": "way/293800003",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899242,
+            -27.3795452
+          ],
+          [
+            -55.8992688,
+            -27.3797363
+          ],
+          [
+            -55.8993414,
+            -27.3802547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113067",
+      "properties": {
+        "@id": "way/33113067",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8986485,
+            -27.3752976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429739",
+      "properties": {
+        "@id": "way/256429739",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985429,
+            -27.3721775
+          ],
+          [
+            -55.8986611,
+            -27.3729639
+          ],
+          [
+            -55.8986888,
+            -27.3730964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834477",
+      "properties": {
+        "@id": "way/268834477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.898857,
+            -27.374312
+          ],
+          [
+            -55.8985181,
+            -27.374349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799988",
+      "properties": {
+        "@id": "way/293799988",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989089,
+            -27.3771612
+          ],
+          [
+            -55.8989297,
+            -27.3773101
+          ],
+          [
+            -55.8989513,
+            -27.377465
+          ],
+          [
+            -55.8989741,
+            -27.3776343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799998",
+      "properties": {
+        "@id": "way/293799998",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986769,
+            -27.3755009
+          ],
+          [
+            -55.8987792,
+            -27.3762334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800005",
+      "properties": {
+        "@id": "way/293800005",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8987792,
+            -27.3762334
+          ],
+          [
+            -55.8988073,
+            -27.376324
+          ],
+          [
+            -55.8989089,
+            -27.3771612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318162526",
+      "properties": {
+        "@id": "way/318162526",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8988249,
+            -27.37408
+          ],
+          [
+            -55.898857,
+            -27.374312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163486",
+      "properties": {
+        "@id": "way/318163486",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986888,
+            -27.3730964
+          ],
+          [
+            -55.8988249,
+            -27.37408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397575",
+      "properties": {
+        "@id": "way/398397575",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986485,
+            -27.3752976
+          ],
+          [
+            -55.8986769,
+            -27.3755009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429733",
+      "properties": {
+        "@id": "way/256429733",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8972733,
+            -27.3628551
+          ],
+          [
+            -55.8973941,
+            -27.3637767
+          ],
+          [
+            -55.8974928,
+            -27.3645304
+          ],
+          [
+            -55.8975177,
+            -27.3647082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429740",
+      "properties": {
+        "@id": "way/256429740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8982977,
+            -27.3702971
+          ],
+          [
+            -55.8984189,
+            -27.3712331
+          ],
+          [
+            -55.8985429,
+            -27.3721775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961463",
+      "properties": {
+        "@id": "way/262961463",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980312,
+            -27.3684246
+          ],
+          [
+            -55.8981006,
+            -27.3688942
+          ],
+          [
+            -55.8981687,
+            -27.3693655
+          ],
+          [
+            -55.8982977,
+            -27.3702971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961477",
+      "properties": {
+        "@id": "way/262961477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977736,
+            -27.3665601
+          ],
+          [
+            -55.8979032,
+            -27.3674986
+          ],
+          [
+            -55.8980036,
+            -27.3682251
+          ],
+          [
+            -55.8980312,
+            -27.3684246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961490",
+      "properties": {
+        "@id": "way/262961490",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8975177,
+            -27.3647082
+          ],
+          [
+            -55.8976461,
+            -27.3656374
+          ],
+          [
+            -55.8977736,
+            -27.3665601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43967887",
+      "properties": {
+        "@id": "way/43967887",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896986,
+            -27.3606726
+          ],
+          [
+            -55.8970101,
+            -27.3609632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961591",
+      "properties": {
+        "@id": "way/262961591",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8970101,
+            -27.3609632
+          ],
+          [
+            -55.8971212,
+            -27.3617617
+          ],
+          [
+            -55.8971417,
+            -27.3619094
+          ],
+          [
+            -55.8972733,
+            -27.3628551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198281102",
+      "properties": {
+        "@id": "way/198281102",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8888781,
+            -27.4317128
+          ],
+          [
+            -55.8890461,
+            -27.4318268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198281104",
+      "properties": {
+        "@id": "way/198281104",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8890461,
+            -27.4318268
+          ],
+          [
+            -55.8889107,
+            -27.4320507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350572",
+      "properties": {
+        "@id": "way/312350572",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8889107,
+            -27.4320507
+          ],
+          [
+            -55.8887601,
+            -27.4322765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2741481000",
+      "properties": {
+        "@id": "node/2741481000",
+        "@relations": [
+          {
+            "role": "bus_stop",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9030465,
+          -27.4065071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2741480991",
+      "properties": {
+        "@id": "node/2741480991",
+        "@relations": [
+          {
+            "role": "bus_stop",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8986611,
+          -27.3729639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2741480989",
+      "properties": {
+        "@id": "node/2741480989",
+        "@relations": [
+          {
+            "role": "bus_stop",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8980036,
+          -27.3682251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2741480983",
+      "properties": {
+        "@id": "node/2741480983",
+        "@relations": [
+          {
+            "role": "bus_stop",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8971212,
+          -27.3617617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2741480987",
+      "properties": {
+        "@id": "node/2741480987",
+        "@relations": [
+          {
+            "role": "bus_stop",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8974928,
+          -27.3645304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606141495",
+      "properties": {
+        "@id": "node/2606141495",
+        "@relations": [
+          {
+            "role": "bus_stop",
+            "rel": 3602814,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Centro",
+              "name": "Línea 01 Directo: Centro → Campus UNaM",
+              "network": "Regional",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "01 Directo",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8887601,
+          -27.4322765
+        ]
+      }
+    }
+  ]
+}
