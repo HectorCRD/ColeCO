@@ -1,0 +1,15 @@
+{
+"type":"FeatureCollection","features":[
+{"type":"Feature",
+"properties":{
+"name":"Ruta 6: Barrio Camilo Chamorro -> Colonia Independencia",
+"attributes":{
+"operator":"Cooperativa 17 de octubre",
+"to":"Colonia Independencia",
+"ref":"6",
+"network":"IRTRAMMA",
+"from":"Barrio Camilo Chamorro"
+}
+},
+
+"geometry":{"type":"LineString","coordinates":[[-55.895347595214844,-27.362315460734894],[-55.902557373046875,-27.405909155361034],[-55.93276977539062,-27.401946802284485]]}},{"type":"Feature","properties":{"name":"Parque Paraguayo","attributes":{"official_status":"IRTRAMMA:bus_station"}},"geometry":{"type":"Point","coordinates":[-55.895347595214844,-27.362315460734894]}}]}
