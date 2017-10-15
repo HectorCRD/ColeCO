@@ -41,7 +41,7 @@ function load_map(url_params) {
 
   // Initialize map
   map = new L.map('map', {
-    center: [-27.46,-55.82], 
+    center: [-27.40451,-55.90277],   
     zoom: 13,
     attributionControl: true,
     layers: baseLayers[url_params.layers] || jawgmaps
@@ -154,8 +154,6 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
     'lines-troncales': '#FFFF00', // Amarillo
     'lines-circulares': '#1E90FF', // Celeste
     'lines-colectoras': '#7CFC00', // Verde
-
- 
   }
 
   var myStyle = {
