@@ -35,13 +35,12 @@ function load_map(url_params) {
     "Humanitario": humanitarian,
     "OpenStreetMap": osm,
     "Mapbox": mapbox,
-    "OSM Suecia": osmsweden,
-    "OSM Dark": jawgmaps,
+    "OSM Oscuro": jawgmaps,
   };
 
   // Initialize map
   map = new L.map('map', {
-    center: [-27.40451,-55.90277],   
+    center: [-27.3756,-55.9177],   
     zoom: 13,
     attributionControl: true,
     layers: baseLayers[url_params.layers] || jawgmaps
@@ -325,10 +324,10 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
               layer.bindLabel(feature.properties.name, {noHide: false});
 
               // Create list of bus stops
-              if (feature.properties.attributes.official_status == "IRTRAMMA:bus_stop") {
+              if (feature.properties.attributes.official_status == "bus_stop") {
                 stopClass = "stop-official";
               }
-              else if (feature.properties.attributes.official_status == "IRTRAMMA:bus_station") {
+              else if (feature.properties.attributes.official_status == "bus_station") {
                 stopClass = "stop-station";
               }
               else if (feature.properties.attributes.official_status == "none") {
