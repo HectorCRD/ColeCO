@@ -40,7 +40,7 @@ function load_map(url_params) {
 
   // Initialize map
   map = new L.map('map', {
-    center: [-27.3756,-55.9177],   
+    center: [-27.3806,-55.9032],   
     zoom: 13,
     attributionControl: true,
     layers: baseLayers[url_params.layers] || jawgmaps
@@ -50,7 +50,7 @@ function load_map(url_params) {
   var hash = new L.Hash(map);
 
   // Adding attribution to desired position
-  L.control.attribution({position: 'bottomleft'}).addTo(map);
+//  L.control.attribution({position: 'bottomleft'}).addTo(map);
 
   // Adding layer functionality
   var layers = L.control.activeLayers(baseLayers);
@@ -271,13 +271,13 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
                 $(".info-wrapper .operator").text(operator);
               }
 
-              // BogoMap: Test if the from value is defined.
+              // Test if the from value is defined.
               if (typeof feature.properties.attributes !== "undefined" && typeof feature.properties.attributes.from !== "undefined" && typeof feature.properties.attributes.to !== "undefined"){
 
               $(".stop-overview .variant-one h4").text(feature.properties.attributes.from + " -> " + feature.properties.attributes.to);
               $(".stop-overview .variant-two h4").text(feature.properties.attributes.to + " -> " + feature.properties.attributes.from);
 
-              // BogoMap
+              // 
               } else {
                 to = feature.properties["@relations"][0].reltags.to;
                 from = feature.properties["@relations"][0].reltags.from;
