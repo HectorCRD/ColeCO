@@ -1,6 +1,6 @@
-Mapa del sistema de transporte público urbano de la Ciudad de Posadas 
+Mapa del sistema de transporte público urbano de Caleta Olivia.
 
-Basado en MapaNica y BogoMap
+Basado en ColePos
 
 
 
